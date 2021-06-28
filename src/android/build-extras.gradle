@@ -18,8 +18,8 @@ repositories {
 }
 
 dependencies {
-    api 'com.braintreepayments.api:braintree:3.+'
-    api 'com.braintreepayments.api:drop-in:4.+'
+    api 'com.braintreepayments.api:braintree:4.2.0'
+    api 'com.braintreepayments.api:drop-in:5.2.1'
     api 'com.google.android.gms:play-services-wallet:+'
     api 'io.card:android-sdk:5.5.1'
     components.all {
